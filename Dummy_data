@@ -1,0 +1,6 @@
+STUDYID,SID,TIME,AGE,SEX,GROUP
+Dummy_1,101,1,30,M,A
+Dummy_1,102,2,20,M,A
+Dummy_1,103,3,26,F,B
+Dummy_1,104,4,50,M,B
+Dummy_1,105,5,45,F,B
